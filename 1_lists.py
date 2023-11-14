@@ -1,4 +1,8 @@
+#Author: Naman Goyal
+#Youtube Channel : https://www.youtube.com/@CSFactoryIn/videos
+
 #Lists: ordered, mutable, allows duplicate elements
+#Mutable means : list objects' can be changed after the creation of the list.
 
 mylist = ["banana", "cherry", "apple"]
 print(mylist)
